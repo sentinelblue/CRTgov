@@ -64,7 +64,7 @@ This tool will return most queries in .CSV format, and a few in .TXT format. Add
 .NOTES
 CrowdStrike Reporting Tool for Azure (CRT)
 Written by CrowdStrike Endpoint Recovery Services
-Modified by Sentinel Blue for usage on the Azure Government and Office 365 GCC High environments.
+Modified by Sentinel Blue for usage on the Azure Government and Office 365 GCC High environments - https://www.sentinelblue.com
 
 Version history:
 V1.0, 12/23/2020 - Initial version
