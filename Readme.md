@@ -1,6 +1,6 @@
 ## CrowdStrike Reporting Tool for Azure (CRT)
 
-*This tool has been modified from the [original version authored by Crowdstrike](https://github.com/CrowdStrike/CRT); this version runs the same tooling but instead of targeting the commercial Azure and Office 365 endpoints, it targets Azure Government and Office 365 GCC High. No other changes have been made*
+*This tool has been modified from the [original version authored by Crowdstrike](https://github.com/CrowdStrike/CRT); this version runs the same tool with all of the same parameters but instead of targeting the commercial Azure and Office 365 endpoints, it targets Azure Government and Office 365 GCC High. No other changes have been made*
 
 This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.
 
